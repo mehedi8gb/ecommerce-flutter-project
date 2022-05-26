@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280394546602",
+    "project_id": "yubizzlemobileapp",
+    "storage_bucket": "yubizzlemobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280394546602:android:6053fc2164e9d88386bfd3",
+        "android_client_info": {
+          "package_name": "com.yubizzle.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280394546602-1k8mtonl5tnm27i1ncm6nkg70s8viiic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Xu62OosjDwjNy7zJPHj1NyArVXnTr9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280394546602-1k8mtonl5tnm27i1ncm6nkg70s8viiic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
